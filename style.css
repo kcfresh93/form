@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(238, 238, 141);
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+#head{
+   text-align: center;
+}
+.ok{
+    text-align: center;
+}
+#menu{
+    width: 40px;
+    height: 40px;
+    margin-top: 12px;
+    padding: 12px;
+    background-color: green;
+    
+}
+form{
+    background-color: white;
+    padding: 6em;
+    border: 1px solid;
+    border-radius: 15px;
+    margin: 5em;
+    margin-top: 5em;
+}
+fieldset{
+    border: 1px solid;
+    padding: 1em;
+    margin: 0;
+}
+   
+.see{
+    font-weight: bold;
+    font-size: larger;
+}
+textarea{
+    border-radius: 10px;
+}
+#uju{
+    margin-top: 2em;
+}
+.cap{
+    margin-bottom: 2em;
+}
+p.yes{
+    text-align: center;
+    
+}
+.no{
+    background-color: none;
+}
